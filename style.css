@@ -1,0 +1,54 @@
+#titulo {
+margin: 0%;
+padding: 0%;
+font-size: 250%;
+position: absolute;
+}
+#descricao {
+margin: 0%;
+padding: 0%;
+font-size: 250%;
+position: absolute;
+}
+#nota1 {
+    position: absolute;
+margin: 0%;
+padding: 0%;
+font-size: 200%;
+}
+#nota2 {
+    position: absolute;
+margin: 0%;
+padding: 0%;
+font-size: 200%;
+}
+#nota3 {
+    position: absolute;
+margin: 0%;
+padding: 0%;
+font-size: 200%;
+}
+#nm {
+position: absolute;
+margin: 0%;
+padding: 0%;
+font-size: 200%;
+}
+#calcule {
+margin: 0%;
+padding: 0%;
+font-size: 300%;
+position: absolute;
+}
+#resultado {
+margin: 0%;
+padding: 0%;
+font-size: 300%;
+position: absolute;
+}
+#mensagem {
+margin: 0%;
+padding: 0%;
+font-size: 300%;
+position: absolute;
+}
