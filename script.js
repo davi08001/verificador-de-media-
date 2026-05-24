@@ -16,8 +16,8 @@ posn2.style.left = '500px'   //x
 posn2.style.top = '300px'    //y
 
 const posm = document.getElementById("mensagem");
-posm.style.left = '1100px'   //x
-posm.style.top = '300px'    //y
+posm.style.left = '100px'   //x
+posm.style.top = '350px'    //y
 
 const posn3 = document.getElementById("nota3");
 posn3.style.left = '500px'   //x
@@ -32,8 +32,8 @@ posb.style.left = '600px'    //x
 posb.style.top = '600px'     //y
 
 const posr = document.getElementById("resultado");
-posr.style.left = '1100px'   //x
-posr.style.top = '250px'     //y
+posr.style.left = '100px'   //x
+posr.style.top = '300px'     //y
 
 const vn1 = /**@type {HTMLInputElement} */ (posn);
 const vn2 = /**@type {HTMLInputElement} */ (posn2);
