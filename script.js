@@ -17,7 +17,7 @@ posn2.style.top = '300px'    //y
 
 const posm = document.getElementById("mensagem");
 posm.style.left = '100px'   //x
-posm.style.top = '400px'    //y
+posm.style.top = '420px'    //y
 
 const posn3 = document.getElementById("nota3");
 posn3.style.left = '500px'   //x
